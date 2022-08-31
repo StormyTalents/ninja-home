@@ -19,17 +19,17 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sergio1221&theme=algolia" alt="sergio1221" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ninja-home&theme=algolia" alt="ninja-home" /></p>
 
 <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sergio1221's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sergio1221&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ninja-home's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ninja-home&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio1221&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sergio1221" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninja-home&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ninja-home" height="192px"/>
   <br/>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/sergio1221"><img alt="sergio1221's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sergio1221&custom_title=sergio1221's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/ninja-home"><img alt="ninja-home's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ninja-home&custom_title=ninja-home's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
