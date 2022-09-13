@@ -10,7 +10,7 @@
   &#9989; axios, react-query, SWR, @apollo/client  
   &#9989; react-transition-group, framer-motion, react-spring, gsap
 #### &#10029; backend
-  &#9989; nodejs/expressjs, php/laravel, python/flask/fastapi solidity/Hardhat/truffle rust/Golang
+  &#9989; nodejs/expressjs, php/laravel, python/flask/fastapi, solidity/Hardhat/truffle, rust/Golang
   &#9989; postgresql, mysql/mariadb, mongodb, redis, arangodb  
   &#9989; AWS, Google cloud
 #### &#10029; others
