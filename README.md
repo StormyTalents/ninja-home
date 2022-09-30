@@ -20,6 +20,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ninja-home&column=8)](https://github-profile-trophy.vercel.app/?username=ninja-home&column=8)
 
  <br>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -65,6 +66,7 @@
 </div>
 
 </td><td valign="top" width="33%">
+
 ### Database  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
@@ -78,6 +80,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🔥 Streak Stats
 <div style="display: flex;">
   <p>
