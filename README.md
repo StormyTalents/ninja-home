@@ -17,7 +17,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ninja-home&column=8)](https://github-profile-trophy.vercel.app/?username=ninja-home&column=8)
+<img src="https://github-profile-trophy.vercel.app/?username=DenverCoder1&column=8&theme=onedark"/>
 
  <br>
 
