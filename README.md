@@ -84,11 +84,16 @@
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ninja-home&show_icons=true&theme=blueberry&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ninja-home&theme=blueberry&hide_border=true" />
   </p>
-  <div style="display: flex">
+  <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninja-home&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ninja-home" height="192px"/>
-    <a href="https://github.com/ninja-home"><img alt="ninja-home's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ninja-home&custom_title=ninja-home's%20Contribution%20Graph&theme=react-dark" /></a>
-  </div>
+  </p>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/ninja-home"><img alt="ninja-home's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ninja-home&custom_title=ninja-home's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
