@@ -1,13 +1,17 @@
 <p align="center">
   <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Both%20Frontend%20and%20Backend;5%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
-<p align="center">
-  <img src="ninja-coding.gif" />
+<p align="center" display="flex">
+  <img width="200px" height="120px" src="Certificates/JS(Basic).png" />
+  <img width="200px" height="120px" src="Certificates/JS(Basic).png" />
+  <img width="200px" height="120px" src="Certificates/JS(Basic).png" />
+  <img width="200px" height="120px" src="Certificates/JS(Basic).png" />
 </p>
 <p align="center">
  💎 💎 💎 </br>
- 0 says to 8: Hi, guys! (+_+)<br>
- It's the coding world.
+ 
+<br>
+
 </p>
 
 ## Languages and Tools:
