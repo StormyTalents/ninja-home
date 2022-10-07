@@ -2,7 +2,7 @@
   <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Both%20Frontend%20and%20Backend;5%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <p align="center">
-  <img src="JS(Basic).png" />
+  <img src="ninja-coding.gif" />
 </p>
 <p align="center">
  💎 💎 💎 </br>
