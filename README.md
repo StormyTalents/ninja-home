@@ -2,10 +2,16 @@
   <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Both%20Frontend%20and%20Backend;5%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <p align="center" display="flex">
+<a href="https://www.hackerrank.com/certificates/d9ac3fe456d7">
   <img width="23%" src="JS(Basic).png" />
+</a>
+  <a href="https://www.hackerrank.com/certificates/d9ac3fe456d7">
   <img width="23%" src="JS(Basic).png" />
+</a><a href="https://www.hackerrank.com/certificates/d9ac3fe456d7">
   <img width="23%" src="JS(Basic).png" />
+</a><a href="https://www.hackerrank.com/certificates/d9ac3fe456d7">
   <img width="23%" src="JS(Basic).png" />
+</a>
 </p>
 <p align="center">
  💎 💎 💎 </br>
