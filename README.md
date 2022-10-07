@@ -14,7 +14,7 @@
 </p>
 <p align="center" display="flex">
   <a href="https://www.testdome.com/certificates/62aba975f4364aeab586394b07ae14dc">
-    <img width="32%" src="TypeScript(T).png" />
+    <img width="32%" src="Typescript(T).png" />
   </a>
     <a href="https://app.testdome.com/cert/fd98f112587b4283a33b222dea0cb920">
     <img width="32%" src="React(T).png" />
